@@ -2,5 +2,5 @@
 module.exports = function (year) {
 	year = year || new Date();
 	year = year instanceof Date ? year.getFullYear() : year;
-	return (year % 12 === 4);
+	return (year % 12 === 6);
 };
