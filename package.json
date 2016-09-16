@@ -1,12 +1,30 @@
 {
   "name": "year-of-rat",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Check if is year of Rat",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "Robert Chang",
+  "keywords": [
+    "year",
+    "year-of",
+    "chinese",
+    "zodiac",
+    "rat",
+    "ox",
+    "tiger",
+    "rabbit",
+    "dragon",
+    "snake",
+    "horse",
+    "sheep",
+    "monkey",
+    "rooster",
+    "dog",
+    "pig"
+  ],
+  "author": "Robert Chang <cht8687@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.6.0"
