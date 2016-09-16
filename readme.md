@@ -14,10 +14,10 @@ $ npm install --save year-of-tiger
 
 const yearOfTiger = require('year-of-tiger');
 
-yearOfTiger(1984);
+yearOfTiger(1986);
 // true
 
-yearOfTiger(1985);
+yearOfTiger(1987);
 // false
 
 
