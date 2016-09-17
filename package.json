@@ -1,6 +1,6 @@
 {
   "name": "year-of-tiger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if is year of Tiger",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "year-of",
     "chinese",
     "zodiac",
-    "tiger",
+    "rat",
     "ox",
     "tiger",
     "rabbit",
